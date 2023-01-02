@@ -17,7 +17,7 @@ header:
     - name: CV
 
 footer:
-  show_powered_by: true
+  show_powered_by: False
   contact:
     - name: Email
       value: yanggao@illinois.edu
