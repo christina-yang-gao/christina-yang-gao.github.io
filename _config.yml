@@ -15,6 +15,7 @@ header:
       slug: /
     - name: Research
     - name: CV
+      slug: "https://christina-yang-gao.github.io/CV.pdf"
 
 footer:
   show_powered_by: False
