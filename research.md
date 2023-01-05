@@ -1,7 +1,7 @@
 ---
-layout: research
+layout: work
 title: Research
-slug: /research
+slug: /work
 items:
   - title: Wave-like Dark Matter
     image:
