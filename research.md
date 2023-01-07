@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: If the dark matter consists of light bosons, its occupation number must be extremely large in order to yield the observed dark matter abundance. Thus bosonic dark matter, produced in the early universe, can behave as a classical field. We can think of it as a matter wave with a macroscopic de Broglie wavelength and a frequency equal to the boson mass. If these bosons have very slight interactions with ordinary matter, for instance, light, nuclear spins, electron spins, we may have a chance to discover them directly in the laboratory! Currently, I am designing tabletop experiments to look for axions - spin-0 particles that are good candidates for dark matter.
+    description: If the dark matter consists of light bosons, its occupation number must be extremely large to yield the observed dark matter abundance. Thus bosonic dark matter, produced in the early universe, can behave as a classical field. We can think of it as a matter wave with a macroscopic de Broglie wavelength and a frequency equal to the boson mass. If these bosons have very slight interactions with ordinary matter, for instance, light, nuclear spins, and electron spins, we may have a chance to discover them directly in the laboratory! Currently, I am designing tabletop experiments to look for axions - spin-0 particles that are good candidates for dark matter. With the aid of quantum technologies, such as superconducting radio-frequency cavities, optical cavities, entangled sensor networks, and quantum systems, such as superfluid helium, we are in a golden age to look for the wave-like dark matter.
   - title: Compact Objects in Astrophysics
     image:
       src: /assets/img/work/neutron_star.png
