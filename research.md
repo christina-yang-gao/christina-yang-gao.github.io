@@ -17,7 +17,7 @@ items:
     image:
       src: /assets/img/work/ai.png
       alt: ai
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: Given its superb ability in pattern recognition and anomaly detection, machine learning can be powerful in searching for signals from a vast amount of data, such as rare events that may arise from new physics at collider experiments and image deconvolution in astronomical observations. However, to apply machine learning in a robust and reliable way, the systematic of deep neural networks must be properly treated. This becomes especially urgent given the rapid adoption of machine learning in data analysis in all areas of physics. In the past I worked on incorporating normalizing flows in collider event generator to improve the efficiency of the Monte Carlo simulation of the background events. Today I am more interested in quantifying the uncertainty in a deep neural network and how it affects the reconstruction of observables used in collider physics.
 ---
 
 <!-- This is an example of a "Work" page, displaying your work, your interests, your projects. -->
