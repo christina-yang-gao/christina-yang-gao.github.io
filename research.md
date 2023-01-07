@@ -12,9 +12,7 @@ items:
     image:
       src: /assets/img/work/neutron_star.png
       alt: star
-    description: Neutron stars and white dwarves are dead stars consisting of large numbers of protons, neutrons and electrons. A typical neutron star is as heavy as our Sun, but its density can be 100 trillion times more! 
-Just like electric field can be produced by electric charge, a new force field may be sourced by the large neutron number inside the neutron star.
-The fluctuations of the force field are the corresponding particles that may escape the star, taking the star's energy away with them. This new cooling mechanism provides one of the most efficient ways to look for these new particles. Additionally, the new field must contribute to the energy and pressure inside the star, potentially causing a change in its macroscopic property such as mass, radius, moment of Inertia. I am working to identify if current and future neutron star and white dwarf observations may lead to new constraints on these new forces.
+    description: Neutron stars and white dwarves are dead stars consisting of large numbers of protons, neutrons and electrons. A typical neutron star is as heavy as our Sun, but its density can be 100 trillion times more! Just like electric field can be produced by electric charge, a new force field may be sourced by the large neutron number inside the neutron star. The fluctuations of the force field are the corresponding particles that may escape the star, taking the star's energy away with them. This new cooling mechanism provides one of the most efficient ways to look for these new particles. Additionally, the new field must contribute to the energy and pressure inside the star, potentially causing a change in its macroscopic property such as mass, radius, moment of Inertia. I am working to identify if current and future neutron star and white dwarf observations may lead to new constraints on these new forces.
   - title: Machine Learning's Application in Particle Physics
     image:
       src: /assets/img/work/ai.png
