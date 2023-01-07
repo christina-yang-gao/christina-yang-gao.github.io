@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: If the dark matter is made up from light bosons, its occupation number must be extremely large to yield the observed relic abundance. Thus bosonic dark matter, produced in the early universe, can behave as a classical field. It can be described by a matter wave with a macroscopic de Broglie wavelength and a frequency set by the mass of the bosonic field. If these bosons have very slight interactions with ordinary matter such as light, spins of nucleaons and electrons, we may have a chance discovering them directly in the laboratory! I worked on designing tabletop experiments 
   - title: Compact Objects in Astrophysics
     image:
       src: /assets/img/work/neutron_star.png
