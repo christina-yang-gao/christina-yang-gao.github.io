@@ -9,7 +9,7 @@ items:
       alt: sand
     description: If the dark matter is made up from light bosons, its occupation number must be extremely large to yield the observed dark matter abundance. Thus bosonic dark matter, produced in the early universe, can behave as a classical field. It can be described by a matter wave with a macroscopic de Broglie wavelength and a frequency set by the mass of the bosons. If these bosons have very slight interactions with ordinary matter such as light, spins of nucleons and electrons, we may have a chance discovering them directly in the laboratory! 
     
-    <p>Currently I am interested in designing tabletop experiments to look for axions - spin-0 particles that are good candidate for dark matter.</p> 
+    Currently I am interested in designing tabletop experiments to look for axions - spin-0 particles that are good candidate for dark matter. 
   - title: Compact Objects in Astrophysics
     image:
       src: /assets/img/work/neutron_star.png
