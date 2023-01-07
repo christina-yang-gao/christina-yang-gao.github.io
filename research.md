@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/neutron_star.png
       alt: star
-    description: Neutron stars and white dwarves are stellar remnants - dead stars which consist of large numbers of protons, neutrons and electrons. A typical neutron star is as heavy as our Sun, but its density can be as large as 100 trillion times of that of Sun! White dwarf is slightly less extreme with its density a million times more compared to the Sun. If a new force can be sourced by the neutron number, then neutron stars must create a large force field, just as electric field can be produced by electric charge. The fluctuations of the force field are the corresponding particles that may escape the star, taking the star's energy away with them. This introduces a 
+    description: Neutron stars and white dwarves are stellar remnants - dead stars which consist of large numbers of protons, neutrons and electrons. A typical neutron star is as heavy as our Sun, but its density can be as large as 100 trillion times of that of Sun! White dwarf is slightly less extreme with its density a million times more compared to the Sun. If a new force can be sourced by the neutron number, then neutron stars must create a large force field, just as electric field can be produced by electric charge. The fluctuations of the force field are the corresponding particles that may escape the star, taking the star's energy away with them. This introduces a new cooling mechanism, which provides us one of the most efficient way. 
   - title: Machine Learning's Application in Particle Physics
     image:
       src: /assets/img/work/ai.png
