@@ -4,8 +4,7 @@
 title: Christina (Yang) Gao
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoc researcher
-baseurl: "/" # the subpath of the site
-url: "https://christina-yang-gao.github.io" # the base hostname & protocol for the site
+url: "https://cygao.com" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
